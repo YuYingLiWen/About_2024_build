@@ -1,0 +1,28 @@
+{
+    "teksystems_2024": [
+        {
+            "subject": "Front-end",
+            "A": 4
+        },
+        {
+            "subject": "Back-end",
+            "A": 2
+        },
+        {
+            "subject": "Testing",
+            "A": 2
+        },
+        {
+            "subject": "Designing",
+            "A": 3
+        },
+        {
+            "subject": "Teamwork",
+            "A": 5
+        },
+        {
+            "subject": "Database",
+            "A": 1
+        }
+    ]
+}

@@ -1,0 +1,259 @@
+[
+    {
+        "title": "Software Developer",
+        "organization": "TEKsystems",
+        "location": "Montreal, QC",
+        "timeFromMonth": "January",
+        "timeFromYear": "2024",
+        "timeToMonth": "May",
+        "timeToYear": "2024",
+        "description": [
+            "Developed an internal full stack application focusing on gathering, processing, and displaying metric data for the director, KPI analysts, and software development team leaders",
+            "Actively participated in working in an Agile environment with team members spread across the globe",
+            "Engaged in regular peer code reviews, design sessions, & pair programming to enhance code quality",
+            "Participate in regular desk checks with Product Owner WIP stories to ensure alignment with project vision",
+            "Present completed stories to clients and stakeholders by demonstrating functionalities and receiving client feedback"
+        ],
+        "skillChart": [
+            {
+                "subject": "Front-end",
+                "A": 4
+            },
+            {
+                "subject": "Back-end",
+                "A": 2
+            },
+            {
+                "subject": "Testing",
+                "A": 2
+            },
+            {
+                "subject": "Designing",
+                "A": 3
+            },
+            {
+                "subject": "Teamwork",
+                "A": 5
+            },
+            {
+                "subject": "Database",
+                "A": 1
+            }
+        ]
+    },
+    {
+        "title": "FSWEP - Automation Tester",
+        "organization": "Canadian Food Inspection Agency",
+        "location": "Montreal, QC",
+        "timeFromMonth": "May",
+        "timeFromYear": "2022",
+        "timeToMonth": "Dec",
+        "timeToYear": "2022",
+        "description": [
+            "Developed e2e test scenarios for a web application that uses a server to communicate to a LIMS desktop application using RPA, Selenium, & multi-threading",
+            "Fixed and updated the automation project to match the latest application version its testing",
+            "Continuous development of the automation project",
+            "Constant communication with development team to be up to date on new features"
+        ],
+        "skillChart": [
+            {
+                "subject": "Coding",
+                "A": 2
+            },
+            {
+                "subject": "Testing",
+                "A": 1
+            },
+            {
+                "subject": "Designing",
+                "A": 1
+            },
+            {
+                "subject": "Teamwork",
+                "A": 0
+            },
+            {
+                "subject": "Database",
+                "A": 0
+            }
+        ]
+    },
+    {
+        "title": "FSWEP - IT Support Technician",
+        "organization": "Courts Administration Service",
+        "location": "Montreal, QC",
+        "timeFromMonth": "June",
+        "timeFromYear": "2021",
+        "timeToMonth": "August",
+        "timeToYear": "2021",
+        "description": [
+            "Manage KACE IT ticketing system",
+            "Resolve user account issues with Active Directory and Goverlan",
+            "Resolve Window, iPhone & Android, and other IT assets related issues",
+            "Dispatch and track IT assets",
+            "Make Ethernet cables and fix network switch wiring",
+            "Setup Zoom conference with Polycom",
+            "Setup LAN access depending on new need"
+        ],
+        "skillChart": [
+            {
+                "subject": "Front-end",
+                "A": 0
+            },
+            {
+                "subject": "Back-end",
+                "A": 0
+            },
+            {
+                "subject": "Testing",
+                "A": 0
+            },
+            {
+                "subject": "Designing",
+                "A": 0
+            },
+            {
+                "subject": "Teamwork",
+                "A": 4
+            },
+            {
+                "subject": "IT",
+                "A": 4
+            },
+            {
+                "subject": "Database",
+                "A": 0
+            }
+        ]
+    },
+    {
+        "title": "Unity3D Developer Internship",
+        "organization": "LEADHOUSE",
+        "location": "Terrebone, QC",
+        "timeFromMonth": "March",
+        "timeFromYear": "2021",
+        "timeToMonth": "Mai",
+        "timeToYear": "2021",
+        "description": [
+            "Developed app that displays users GPS location updated in realtime with Firebase and Mapbox SDK",
+            "Developed 3D physics based mini games for the LaSSaL app",
+            "Built an arcade quadcopter simulator",
+            "Built an Arduino device that monitors temperature and humidity level that can be viewed through anywhere through an app"
+        ],
+        "skillChart": [
+            {
+                "subject": "Front-end",
+                "A": 4
+            },
+            {
+                "subject": "Back-end",
+                "A": 1
+            },
+            {
+                "subject": "Testing",
+                "A": 3
+            },
+            {
+                "subject": "Designing",
+                "A": 5
+            },
+            {
+                "subject": "Teamwork",
+                "A": 3
+            },
+            {
+                "subject": "Database",
+                "A": 0
+            }
+        ]
+    },
+    {
+        "title": "Functionality QA Tester",
+        "organization": "Keywords Studios",
+        "location": "Montreal, QC",
+        "timeFromMonth": "July",
+        "timeFromYear": 2018,
+        "timeToMonth": "August",
+        "timeToYear": 2020,
+        "description": [
+            "Find, analyze, report, vet, regress, and track bugs in AAA games with Jira",
+            "Perform Smoke Test, Black Box and Grey Box Testing",
+            "Uses Jira, Slack & Favro",
+            "Make test cases and test suites for each stages of product development",
+            "Write end of day reporting to customer",
+            "Help new testers get onboard our project"
+        ],
+        "skillChart": [
+            {
+                "subject": "Front-end",
+                "A": 0
+            },
+            {
+                "subject": "Back-end",
+                "A": 0
+            },
+            {
+                "subject": "Testing",
+                "A": 5
+            },
+            {
+                "subject": "Designing",
+                "A": 2
+            },
+            {
+                "subject": "Teamwork",
+                "A": 5
+            },
+            {
+                "subject": "Database",
+                "A": 0
+            }
+        ]
+    },
+    {
+        "title": "General Assistant",
+        "organization": "Depanneur Qin",
+        "location": "Montreal, QC",
+        "timeFromMonth": "June",
+        "timeFromYear": "2013",
+        "timeToMonth": "July",
+        "timeToYear": "2017",
+        "description": [
+            "Provide customer service",
+            "Generate new marketing strategy",
+            "Take and make resupply orders",
+            "Help with inventory management",
+            "Promote new products"
+        ],
+        "skillChart": [
+            {
+                "subject": "Front-end",
+                "A": 0
+            },
+            {
+                "subject": "Back-end",
+                "A": 0
+            },
+            {
+                "subject": "Testing",
+                "A": 0
+            },
+            {
+                "subject": "Designing",
+                "A": 0
+            },
+            {
+                "subject": "Teamwork",
+                "A": 5
+            },
+            {
+                "subject": "Service",
+                "A": 5
+            },
+            {
+                "subject": "Database",
+                "A": 0
+            }
+        ]
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "title": "Resume Website v2",
+        "timeFrom": "May 2024",
+        "timeTo": "Present",
+        "description": "New resume website. Yup, this one!",
+        "techUsed": ["React", "Mantine", "Three.js", "TypeScript", "JSON"],
+        "media": "about_2024.jpg"
+    },
+    {
+        "title": "OpenGL Terrain Generator",
+        "timeFrom": "Jan 2023",
+        "timeTo": "Apr 2023",
+        "description": "2nd individual project done for my Computer Graphics class. A terrain generator using OpengGL with the help of ImGui. The project also contains a particle system.",
+        "techUsed": ["C++", "OpenGL"],
+        "media": "terrain.jpg"
+    },
+    {
+        "title": "Path Tracer",
+        "timeFrom": "Jan 2023",
+        "timeTo": "Apr 2023",
+        "description": "Using C++, and Eigen library each individual student had to generate various scenes depicted by json files.",
+        "techUsed": ["C++", "Eigen", "JSON"],
+        "media": "cornell_box.jpg"
+    },
+    {
+        "title": "CV Website",
+        "timeFrom": "Jan 2022",
+        "timeTo": "Date + 30 mins",
+        "description": "Quick and dirty website made in 30 mins back in 2022 because I've decided to learn a bit JS/CSS/HTML. Then in Dec 2023, I destroyed its CSS part, and haven't bother to fix it since then :P ",
+        "techUsed": ["JavaScript", "HTML", "CSS", "JSON"],
+        "media": "about_2022.jpg"
+    },
+    {
+        "title": "Logical Circuit",
+        "timeFrom": "Dec 2021",
+        "timeTo": "Jan 2022",
+        "description": "A free sandbox where you may construct logical circuits! It also comes with a small game :)",
+        "techUsed": ["Unity", "C#"],
+        "media": "Logical_Circuit.gif"
+    },
+    {
+        "title": "Yurock",
+        "timeFrom": "Mar 2021",
+        "timeTo": "May 2021",
+        "description": "A minigame I made during my Unity3D internship at LEADHOUSE.",
+        "techUsed": ["Unity", "C#"],
+        "media": "yurock.gif"
+    },
+    {
+        "title": "Danbar",
+        "timeFrom": "Sep 2020",
+        "timeTo": "Dec 2020",
+        "description": "A bullet hell game made in Unity. This project contains an object pooler, state machine AI, enemy waves, Bézier curves for paths, save and load game states, player statistics board",
+        "techUsed": ["Unity", "C#"],
+        "media": "Danbar.gif"
+    },
+    {
+        "title": "Playground",
+        "timeFrom": "Circa Jan 2019",
+        "timeTo": "Circa Apr 2018",
+        "description": "Platformer game build as part of our advance Unity Engine class.",
+        "techUsed": ["Unity", "C#"],
+        "media": "Playground.gif"
+    },
+    {
+        "title": "Block Breaker",
+        "timeFrom": "Sep 2019",
+        "timeTo": "Dec 2019",
+        "description": "Started back in 2022 as a quick and dirty curiculum vitae website. In 2023, decided to learn JS/CSS/HTML seriously to make the website look professional.",
+        "techUsed": ["Unity", "C#"],
+        "media": "brick_breaker.gif"
+    }
+]
