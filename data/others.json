@@ -1,0 +1,42 @@
+{
+    "humanLanguages": [
+        {
+            "name": "French",
+            "score": 5
+        },
+        {
+            "name": "English",
+            "score": 5
+        },
+        {
+            "name": "Mandarin",
+            "score": 3
+        }
+    ],
+    "programmingLanguages": [
+        {
+            "name": "C/C++",
+            "score": 4
+        },
+        {
+            "name": "C#",
+            "score": 4
+        },
+        {
+            "name": "Java",
+            "score": 3
+        },
+        {
+            "name": "JS/TS",
+            "score": 3
+        },
+        {
+            "name": "Python",
+            "score": 2
+        },
+        {
+            "name": "Kotlin",
+            "score": 1
+        }
+    ]
+}
